@@ -143,11 +143,12 @@ $('document').ready(function(){
 		 vw = $(window).width()/2;
 
 		$('#b1,#b2,#b3,#b4,#b5,#b6,#b7').stop();
-		$('#b1').attr('id','b11');
-		$('#b2').attr('id','b22')
-		$('#b3').attr('id','b33')
-		$('#b4').attr('id','b44')
-		$('#b5').attr('id','b55')
+		$('#b1').attr('id','b');
+		$('#b2').attr('id','i')
+		$('#b3').attr('id','n')
+		$('#b4').attr('id','a')
+		$('#b5').attr('id','l'
+			)
 		$('#b6').attr('id','b66')
 		$('#b7').attr('id','b77')
 		$('#b11').animate({top:240, left: vw-350},500);
