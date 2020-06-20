@@ -146,9 +146,9 @@ $('document').ready(function(){
 		$('#b1').attr('id','b');
 		$('#b2').attr('id','i')
 		$('#b3').attr('id','n')
-		$('#b4').attr('id','a')
-		$('#b5').attr('id','l'
-			)
+		$('#b4').attr('a','b44')
+		$('#b5').attr('l','b55')
+			
 		$('#b6').attr('id','b66')
 		$('#b7').attr('id','b77')
 		$('#b11').animate({top:240, left: vw-350},500);
